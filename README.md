@@ -1,7 +1,7 @@
 # Project
                                                  Anime DataDive - A Data Driven Explosion of Anime
 
-Inspired by my deep passion for anime and data analytics, I undertook an anime data analysis project. This initiative aimed to unearth viewer preferences, industry trends, and success factors in anime, bridging the gap between entertainment and data-driven insights.
+Inspired by my deep passion for anime and data analytics, I undertook an anime data analysis project. This initiative aimed to unearth viewer preferences, industry trends, and success factors in anime, bridging the gap between entertainment and data-driven insights .
 
 Objective: Utilized Python libraries for data cleaning, SQL for data storage, and Tableau for visualization. The dataset was sourced from Kaggle and meticulously cleaned.
 
