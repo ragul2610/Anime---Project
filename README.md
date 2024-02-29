@@ -15,9 +15,10 @@ Objective: Utilized Python libraries for data cleaning, SQL for data storage, an
  
  This project exemplifies my proficiency in data analytics, data cleaning, and data visualization, showcasing my ability to draw meaningful insights from complex datasets in the context of my passion for anime.
 
- Dashboard 
+ Dashboard :
  
-                                       ![image](https://github.com/ragul2610/Anime---Project/assets/142657677/5bedd74d-cf9c-4148-9179-0c97bf72915f)
+   ![image](https://github.com/ragul2610/Anime---Project/assets/142657677/1a43fe6d-68dd-44f4-ba2b-17c1da02f8e0)
+
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0E00.svg?style=for-the-badge&logo=jupyter&logoColor=orange) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=blue)
